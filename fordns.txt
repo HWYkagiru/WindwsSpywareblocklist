@@ -516,9 +516,9 @@
 ||de.sitestat.com^
 ||de.tynt.com^
 ||def.dev-nano.com^
-||didtheyreadit.com		^
+||didtheyreadit.com^
 ||digistats.westjet.com^
-||dimeprice.com		^
+||dimeprice.com^
 ||directads.mcafee.com^
 ||dkb01.webtrekk.net^
 ||dnsdelegation.io^
@@ -662,22 +662,22 @@
 ||hits.webstat.com^
 ||hst.tradedoubler.com^
 ||htm.freelogs.com^
-||i.kissmetrics.com	^
+||i.kissmetrics.com^
 ||ic.tynt.com^
 ||iccee.com^
 ||id.sputniknews.com^
 ||idm.hit.gemius.pl^
 ||ieplugin.com^
 ||iesnare.co.uk^
-||iesnare.com		^
+||iesnare.com^
 ||ilead.itrack.it^
 ||images-aud.freshmeat.net^
 ||images-aud.slashdot.org^
 ||images-aud.sourceforge.net^
-||images.dailydiscounts.com	^
+||images.dailydiscounts.com^
 ||images1.paycounter.com^
 ||imp.clickability.com^
-||impacts.alliancehub.com ^
+||impacts.alliancehub.com^
 ||impch.tradedoubler.com^
 ||impde.tradedoubler.com^
 ||impdk.tradedoubler.com^
@@ -752,7 +752,7 @@
 ||lycoscollect.realmedia.com^
 ||m1.nedstatbasic.net^
 ||m1.webstats4u.com^
-||mailcheckisp.biz	^
+||mailcheckisp.biz^
 ||mailfoogae.appspot.com^
 ||mailtrack.me^
 ||marketaff.com^
@@ -877,7 +877,7 @@
 ||prof.estat.com^
 ||propeller-tracking.com^
 ||quantcast584928381.s.moatpixel.com^
-||quantserve.com ^
+||quantserve.com^
 ||r1-t.trackedlink.net^
 ||redshell.io^
 ||rightmedia.net^
@@ -891,8 +891,8 @@
 ||s.bl-1.com^
 ||s.clickability.com^
 ||s.go-mpulse.net^
-||s.update.fbsbx.com ^
-||s.youtube.com	^
+||s.update.fbsbx.com^
+||s.youtube.com^
 ||s1-tracking.adalyser.com^
 ||s1.shinystat.it^
 ||s10.histats.com^
@@ -968,7 +968,7 @@
 ||statcounter.com^
 ||static.audienceinsights.net^
 ||static.kibboko.com^
-||static.smni.com	^
+||static.smni.com^
 ||static.trackedweb.net^
 ||statistics.elsevier.nl^
 ||statistics.reedbusiness.nl^
@@ -1036,7 +1036,7 @@
 ||stats4all.com^
 ||stats5.lightningcast.com^
 ||stats6.lightningcast.net^
-||statse.webtrendslive.com	^
+||statse.webtrendslive.com^
 ||stl.p.a1.traceworks.com^
 ||straighttangerine.cz.cc^
 ||sugoicounter.com^
@@ -1047,7 +1047,7 @@
 ||t.senaldos.com^
 ||t.senaluno.com^
 ||t.signaletre.com^
-||t.signauxdeux.com ^
+||t.signauxdeux.com^
 ||t.update.fbsbx.com^
 ||t.yesware.com^
 ||tag.crsspxl.com^
@@ -1055,7 +1055,7 @@
 ||targetnet.com^
 ||tates.freestats.com^
 ||tcookie.usatoday.com^
-||tcr.tynt.com	^
+||tcr.tynt.com^
 ||telecharger-openoffice.fr^
 ||tgpcounter.freethumbnailgalleries.com^
 ||the-counter.net^
@@ -1267,7 +1267,7 @@
 ||vidstatb.taboola.com^
 ||vip.clickzs.com^
 ||vis.sexlist.com^
-||visit.theglobeandmail.com ^
+||visit.theglobeandmail.com^
 ||vitals.vercel-analytics.com^
 ||voken.eyereturn.com^
 ||vs.dmtracker.com^
@@ -1277,7 +1277,7 @@
 ||warlog.info^
 ||wau.tynt.com^
 ||web4.realtracker.com^
-||webbug.seatreport.com	^
+||webbug.seatreport.com^
 ||webcounter.com^
 ||webcounter.goweb.de^
 ||webcounter.together.net^
@@ -1297,7 +1297,7 @@
 ||www.addtoany.com^
 ||www.ademails.com^
 ||www.affiliatesuccess.net^
-||www.bar.ry2002.02-ry014.snpr.hotmx.hair.zaam.net ^
+||www.bar.ry2002.02-ry014.snpr.hotmx.hair.zaam.net^
 ||www.belstat.nl^
 ||www.betcounter.com^
 ||www.bluestreak.com^
@@ -1307,7 +1307,7 @@
 ||www.c2.thecounter.de^
 ||www.cig-arrete.com^
 ||www.clickclick.com^
-||www.clickspring.net	^
+||www.clickspring.net^
 ||www.clixgalore.com^
 ||www.connectionlead.com^
 ||www.counter.bloke.com^
@@ -1344,7 +1344,7 @@
 ||www.hitstats.co.uk^
 ||www.iccee.com^
 ||www.iesnare.co.uk^
-||www.iesnare.com	^
+||www.iesnare.com^
 ||www.iovation.co.uk^
 ||www.iovation.com^
 ||www.jellycounter.com^
@@ -1353,7 +1353,7 @@
 ||www.leadpub.com^
 ||www.linkcounter.com^
 ||www.megacounter.de^
-||www.metareward.com		^
+||www.metareward.com^
 ||www.mnbasd77.com^
 ||www.nedstat.com^
 ||www.nextgenstats.com^
@@ -1382,7 +1382,7 @@
 ||www.toolbarcounter.com^
 ||www.tradedoubler.com^
 ||www.tradingtactics.win^
-||www.trafficmagnet.net ^
+||www.trafficmagnet.net^
 ||www.trafic.ro^
 ||www.trendcounter.com^
 ||www.true-counter.com^
@@ -1424,7 +1424,7 @@
 ||1001paixnidia.fr^
 ||10tide.com^
 ||1percent.fr^
-||2006mindfreaklike.blogspot.com	^
+||2006mindfreaklike.blogspot.com^
 ||2023cradep0sit.com^
 ||20linutes.fr^
 ||20mlinutes.fr^
@@ -1494,7 +1494,7 @@
 ||aliecpress.fr^
 ||aliexress.fr^
 ||aljamaa.fr^
-||allhqpics.com				^
+||allhqpics.com^
 ||allkpop.fr^
 ||allocnie.fr^
 ||allogarages.fr^
@@ -1646,7 +1646,7 @@
 ||brightonclick.com^
 ||brokking.fr^
 ||brostyles.fr^
-||brunga.at	^
+||brunga.at^
 ||bt.webwise.org^
 ||bundesanzeiger.fr^
 ||burley.fr^
@@ -1716,12 +1716,12 @@
 ||chaisesprivee.fr^
 ||chaliehebdo.fr^
 ||challeges.fr^
-||changduk26.com			^
+||changduk26.com^
 ||chatroll.fr^
 ||chch.fr^
 ||checkfreevideos.net^
 ||checkout360now.net^
-||chelick.net				^
+||chelick.net^
 ||chienvoyageur.fr^
 ||choisimoncode.fr^
 ||chrliehebdo.fr^
@@ -1878,7 +1878,7 @@
 ||emagicone.fr^
 ||emplpoi-store.fr^
 ||en.btc-trader-app.club^
-||en.likefever.org			^
+||en.likefever.org^
 ||enalytics.fr^
 ||endicia.fr^
 ||englishcentral.fr^
@@ -1980,7 +1980,7 @@
 ||froling.bee.pl^
 ||fromru.su^
 ||ftdownload.com^
-||fu.golikeus.net			^
+||fu.golikeus.net^
 ||g2play.fr^
 ||gadgetsytecnologia.com^
 ||gagy.fr^
@@ -2004,7 +2004,7 @@
 ||gifii.fr^
 ||gigaonclick.com^
 ||gimp.es^
-||girlownedbypolicelike.blogspot.com	^
+||girlownedbypolicelike.blogspot.com^
 ||giulli.fr^
 ||glassjaw.fr^
 ||globaldrugsurvey.fr^
@@ -2043,7 +2043,7 @@
 ||hartamann.fr^
 ||hashing.win^
 ||hatdfg-rhgreh684.frge.io^
-||hatrecord.ru				^
+||hatrecord.ru^
 ||hcg82f2b.com^
 ||healpublic.best^
 ||hefever.fr^
@@ -2145,7 +2145,7 @@
 ||juliettehasagun.fr^
 ||juliyea.sbs^
 ||jump.ewoss.net^
-||juste.ru	^
+||juste.ru^
 ||juventuis.fr^
 ||kabookk.fr^
 ||kanojo.fr^
@@ -2161,13 +2161,13 @@
 ||kiassure.fr^
 ||kicherchekoi.fr^
 ||kiclq.comfortykive.xyz^
-||kirgo.at	^
+||kirgo.at^
 ||kitchenmagic.fr^
 ||klefigaro.fr^
 ||kleinfelder.fr^
 ||klove.fr^
 ||klowns4phun.com^
-||konflow.com				^
+||konflow.com^
 ||korodrogerie.fr^
 ||kosatec.fr^
 ||kplusd.far.ru^
@@ -2263,10 +2263,10 @@
 ||lifeofpie.fr^
 ||lifigaro.fr^
 ||like.likewut.net^
-||likeportal.com			^
-||likespike.com				^
-||likethis.mbosoft.com			^
-||likethislist.biz			^
+||likeportal.com^
+||likespike.com^
+||likethis.mbosoft.com^
+||likethislist.biz^
 ||lindependnant.fr^
 ||lindependnt.fr^
 ||lingintirejohny.club^
@@ -2431,7 +2431,7 @@
 ||mycnal.fr^
 ||mydreamday.fr^
 ||myedebred.fr^
-||mylike.co.uk				^
+||mylike.co.uk^
 ||myornamenti.com^
 ||myprivateemails.com^
 ||myquiz.fr^
@@ -2622,7 +2622,7 @@
 ||profilenetflix.com^
 ||profilenotice.info^
 ||profit-btc.org^
-||proflashdata.com			^
+||proflashdata.com^
 ||proidees.fr^
 ||projectpoi.com^
 ||promogrim.fr^
@@ -2706,7 +2706,7 @@
 ||schlaukopf.fr^
 ||sciencesetlavenir.fr^
 ||scoietegenerale.fr^
-||scottishstuff-online.com	^
+||scottishstuff-online.com^
 ||screenaddict.thewhizproducts.com^
 ||screencast-o-matic.fr^
 ||scribbens.fr^
@@ -2823,7 +2823,7 @@
 ||tahoesup.com^
 ||tanieaukcje.com^
 ||taniezakupy.pl^
-||tattooshaha.info			^
+||tattooshaha.info^
 ||tax-canada2023.co^
 ||tbebestknives.fr^
 ||teamsport-philipp.fr^
@@ -2846,7 +2846,7 @@
 ||thebestknifes.fr^
 ||thebestwebpillplace.com^
 ||thechive.fr^
-||thedatesafe.com			^
+||thedatesafe.com^
 ||themusicnetwork.co.uk^
 ||thenewswire.fr^
 ||thesimsresource.fr^
@@ -2862,7 +2862,7 @@
 ||timberlande.fr^
 ||tiplanet.fr^
 ||toknowall.com^
-||tomorrownewstoday.com	^
+||tomorrownewstoday.com^
 ||toppillstore.com^
 ||toprxshopplace.com^
 ||toptypeonlinetheclicks.icu^
@@ -3018,7 +3018,7 @@
 ||www.abetterinternet.com^
 ||www.adblock.fr^
 ||www.adshufffle.com^
-||www.allhqpics.com			^
+||www.allhqpics.com^
 ||www.anatol.com^
 ||www.asianread.com^
 ||www.audacity.es^
@@ -3033,7 +3033,7 @@
 ||www.caramail.com^
 ||www.celestia.es^
 ||www.celestia.fr^
-||www.chelick.net			^
+||www.chelick.net^
 ||www.clearalgorithm.com^
 ||www.clonezilla.es^
 ||www.clonezilla.fr^
@@ -3074,18 +3074,18 @@
 ||www.knowinteractive.com^
 ||www.kpremium.com^
 ||www.launchbuffer.com^
-||www.likeportal.com			^
-||www.likespike.com			^
-||www.likethis.mbosoft.com		^
-||www.likethislist.biz			^
-||www.lomalindasda.org			^
+||www.likeportal.com^
+||www.likespike.com^
+||www.likethis.mbosoft.com^
+||www.likethislist.biz^
+||www.lomalindasda.org^
 ||www.magento-analytics.com^
 ||www.manoces.waw.pl^
 ||www.mikras.nl^
 ||www.minr.pw^
 ||www.monkeyball.osa.pl^
 ||www.mshelp247.weebly.com^
-||www.mylike.co.uk			^
+||www.mylike.co.uk^
 ||www.mylovecards.com^
 ||www.mywot.com^
 ||www.notepad2.com^
@@ -3102,22 +3102,22 @@
 ||www.portaldimensional.com^
 ||www.ppoi.org^
 ||www.presidency.site^
-||www.proflashdata.com			^
+||www.proflashdata.com^
 ||www.psychics-readings-for-free.com^
 ||www.qbittorrent.com^
 ||www.randki-sex.com^
 ||www.rickrolling.com^
 ||www.russian-sex.com^
 ||www.securityscan.us^
-||www.shinilchurch.net	^
+||www.shinilchurch.net^
 ||www.simplyhelper.com^
 ||www.sinera.org^
 ||www.ssl2.in^
 ||www.stellarium.fr^
 ||www.stopphoulplay.com^
 ||www.tanger.com.br^
-||www.tattooshaha.info			^
-||www.thedatesafe.com			^
+||www.tattooshaha.info^
+||www.thedatesafe.com^
 ||www.thunderbird.es^
 ||www.trucktirehotline.com^
 ||www.truecrypt.fr^
@@ -3125,7 +3125,7 @@
 ||www.unetbootin.net^
 ||www.unetbootin.org^
 ||www.upgradebasic.com^
-||www.upi6.pillsstore-c.com		^
+||www.upi6.pillsstore-c.com^
 ||www.uqz.com^
 ||www.urldelivery.com^
 ||www.venturead.com^
@@ -4480,14 +4480,14 @@
 ||a.adtng.com^
 ||a.applvn.com^
 ||a.baidu.com^
-||a.blesk.cz ^
+||a.blesk.cz^
 ||a.boom.ro^
 ||a.cctv.com^
-||a.centrum.cz ^
+||a.centrum.cz^
 ||a.cntv.cn^
-||a.denik.cz ^
+||a.denik.cz^
 ||a.dynad.net^
-||a.iprima.cz ^
+||a.iprima.cz^
 ||a.kerg.net^
 ||a.libertystmedia.com^
 ||a.ligatus.com^
@@ -11154,7 +11154,7 @@
 ||www.xxxnations.com^
 ||www.xxxtoolbar.com^
 ||www.yourfuckbook.com^
-||123greetings.com	^
+||123greetings.com^
 ||2000greetings.com^
 ||celebwelove.com^
 ||ecard4all.com^
@@ -11162,7 +11162,7 @@
 ||freewebcards.com^
 ||fukkad.com^
 ||fun-e-cards.com^
-||funnyreign.com	^
+||funnyreign.com^
 ||funsilly.com^
 ||myfuncards.com^
 ||www.cool-downloads.com^
