@@ -1,2 +1,1 @@
-# WindwsSpywareblocklist
-Windws Spywareblocklist
+# Spyware, Trackers and malicious websites Blocklist
